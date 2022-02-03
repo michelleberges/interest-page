@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    font-family: "noteworthy" , monospace;
+    font-size: 14px;
+}
+header {
+background-color: mistyrose;
+}
+body {
+    margin: auto;
+    width: fit-content;
+    background-color: mistyrose;
+    border: .5rem solid;
+    border-color: pink;
+    
+}
+main {
+    height: 70vh;
+    background-color: mistyrose;
+}
+h1{
+    background-color: lightpink;
+    
+}
+.bio-image{
+    height: 10rem;
+    display: flex
+}
+#bio-choose{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: left;
+    
+}
+#name-date{
+    display: flex;
+    justify-content: space-between;
+}
+.pinkbox {
+    background-color: lightpink;
+
+   
+}
+#bio{
+ 
+    background-color: mistyrose;
+}
+#tech{
+    background-color: mistyrose;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+figure{
+    
+    align-content: horizontal;
+    height: 10rem;
+    text-align: center;
+    font-size: small;
+    padding-top: 1rem;
+}
+figure img{
+    height: 5rem;
+
+}
+#interest {
+    background-color: mistyrose;
+    padding-top: 1rem;
+}
+
+
+.variablesizetext {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imagestyle {
+  height: 10rem;
+  justify-content: flex-start;
+}
+#copyright {
+    color: lightpink;
+    background-color: rgb(75, 100, 110);
+}
+
