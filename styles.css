@@ -5,11 +5,12 @@
 }
 body {
     margin: auto;
-    width: 960px;
+    width: 960px; 
     background-color: mistyrose;
+   
 }
 header {
-background-color: mistyrose;
+
 text-align: center;
 }
 header img{
@@ -18,10 +19,6 @@ header img{
 
 main {
    /* height: 70vh;*/
-    /* background-color: mistyrose;*/
-}
-h1{
-    background-color: lightpink;
     
 }
 section{
@@ -46,18 +43,19 @@ section{
 #name-date{
     display: flex;
     justify-content: space-between;
+   
 }
 .pinkbox {
-    background-color: plum;
+    background-color: rgba(219, 155, 219, 0.432);
 
    
 }
 #bio{
  
-    background-color: mistyrose;
+    
 }
 #tech{
-    background-color: mistyrose;
+    
     justify-content: space-between;
     display: flex;
     flex-direction: row;
@@ -75,7 +73,7 @@ figure img{
 
 }
 #interest {
-    background-color: mistyrose;
+   
     padding-top: 1rem;
 }
 
@@ -91,17 +89,17 @@ figure img{
 h3, h4, li, p {
     color: white;
 }
- h2 {
+ h2, time{
     color:  #FC8EAC;
 }
 figcaption{
-    color: rgb(75, 100, 110);
+    color: rgb(86, 86, 153);
     font-size: large;
     font-style: bold;
 }
 
 #copyright {
-    color: lightpink;
-    background-color: rgb(75, 100, 110);
+    color: white;
+    background-color: rgba(219, 155, 219, 0.514);
 }
 
