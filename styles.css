@@ -6,7 +6,7 @@
 body {
     margin: auto;
     width: 960px; 
-    background-color: mistyrose;
+    background-color: rgb(255, 228, 225);
    
 }
 header {
@@ -87,7 +87,7 @@ figure img{
   justify-content: flex-start;
 }
 h3, h4, li, p {
-    color: white;
+    color: rgb(86, 86, 153);
 }
  h2, time{
     color:  #FC8EAC;
@@ -99,7 +99,7 @@ figcaption{
 }
 
 #copyright {
-    color: white;
+    color: rgb(86, 86, 153);
     background-color: rgba(219, 155, 219, 0.514);
 }
 
